@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Mateus Ferreira
 
-![Mateus Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-53&show_icons=true&theme=great-gatsby)
+![Mateus Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-53&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-53&layout=compact&theme=great-gatsby)](https://github.com/Mateus-53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-53&layout=compact&theme=transparent)](https://github.com/Mateus-53/github-readme-stats)
 
 ## 📖 Tecnologias em estudo:
 
