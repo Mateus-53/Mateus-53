@@ -2,9 +2,10 @@
 <h1>👋 Olá! Eu sou Mateus Ferreira</h1>
 
 <div style="display: inline-block;">
-	<a href="https://github.com/Mateus-53">
-	  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mateus-53&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-	  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-53&layout=compact&langs_count=7&theme=great-gatsby" />
+	<h2>📊 Github Stats:</h2>
+	  <a href="https://github.com/Mateus-53">
+	  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Mateus-53&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+	  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-53&layout=compact&langs_count=7&theme=great-gatsby" />
   </a>
 </div>
 
