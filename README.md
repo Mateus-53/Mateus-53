@@ -12,6 +12,6 @@
 <h2>📖 Tecnologias em estudo:</h2>
 
 <div style="display: inline-block;">
-  <img height="40em" src="https://skills.thijs.gg/icons?i=html,css,js,php" alt="Skills Icons" >
+  <img height="40em" src="https://skills.thijs.gg/icons?i=html,css,js,php,git" alt="Skills Icons" >
 </div>
 </div>
