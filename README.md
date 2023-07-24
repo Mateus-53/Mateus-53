@@ -1,5 +1,8 @@
 <div>
-	<h1>👋 Olá! Eu sou Mateus Ferreira.</h1>
+  <h1>👋 Olá! Eu sou Mateus Ferreira.</h1>
+  <a href="https://www.linkedin.com/in/mateus-ferreira-9ab847270/">
+  	<img src="https://img.shields.io/badge/Mateus_Ferreira-000000?style=for-the-badge&logo=linkedin&logoColor=FEA626"/>
+	</a>
 	<p>Estou estudando programação, em especial, desenvolvimento web front-end, e estou me identificando bastante na área, sempre em busca de aprimorar e adquirir novos conhecimentos! 🤩⚡</p>
 </div>
 
